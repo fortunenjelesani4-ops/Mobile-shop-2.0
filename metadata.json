@@ -1,0 +1,6 @@
+{
+  "name": "DRIPLY",
+  "description": "Premium AI-powered online luxury clothing ordering and delivery platform featuring glassmorphism UI, real-time tracking, an AI stylist, and advanced dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
